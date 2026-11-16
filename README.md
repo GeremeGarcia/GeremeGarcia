@@ -27,11 +27,11 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table width="100%" cellpadding="10" cellspacing="0">
 <tr>
-<td width="60%" valign="top">
+<td width="60%" align="left" valign="top">
 
-I'm a Computer Science student at **Saint Louis University** interested in software engineering and building practical technology.
+I'm a Computer Science student interested in software engineering and building practical technology.
 
 I enjoy understanding how systems work, developing applications, and exploring the engineering principles behind reliable and maintainable software.
 
@@ -42,7 +42,7 @@ My interests extend from backend development and application architecture to art
 </p>
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" align="left" valign="top">
 
 ### 🎯 Areas of Interest
 
@@ -90,9 +90,9 @@ Learn continuously. Build thoughtfully. Engineer purposefully.
 
 ## 🚀 Selected Projects & Development
 
-<table>
+<table width="100%" cellpadding="10" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 <h3>🏥 MediSync AI</h3>
 
@@ -104,7 +104,7 @@ An AI-assisted healthcare support platform focused on patient intake, urgency as
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 <h3>🌐 Full-Stack Development</h3>
 
@@ -118,7 +118,7 @@ Building web applications with modern frontend frameworks, backend services, API
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 <h3>☕ Java Development</h3>
 
@@ -130,7 +130,7 @@ Exploring object-oriented programming, desktop applications, client-server commu
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 <h3>🔬 Engineering & Research</h3>
 
@@ -155,9 +155,9 @@ Exploring software engineering concepts, system design, algorithm development, a
 
 ## 📚 Currently Exploring
 
-<table>
+<table width="100%" cellpadding="10" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 **Software Engineering**
 
@@ -167,7 +167,7 @@ Exploring software engineering concepts, system design, algorithm development, a
 - REST API Development
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 **Computer Science**
 
