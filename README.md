@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+thoughtful+software;Learning+how+systems+work;Turning+ideas+into+useful+tools" alt="Building thoughtful software · Learning how systems work · Turning ideas into useful tools" />
+</p>
+
+<p align="center">
   <a href="https://gereme.gajec.org">Portfolio</a> ·
   <a href="https://github.com/GeremeGarcia">GitHub</a> ·
   <a href="https://linkedin.com/in/gereme-marcus-garcia">LinkedIn</a>
