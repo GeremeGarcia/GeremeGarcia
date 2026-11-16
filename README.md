@@ -1,12 +1,24 @@
-<!-- Animated Header -->
+<!-- Animated header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=GEREME&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=16" alt="Gereme - Software Developer and Computer Science Student" />
+</p>
 
-<p align="center">   <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=GEREME&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=16](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=180\&section=header\&text=GEREME\&fontSize=55\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Developer%20%7C%20Computer%20Science%20Student\&descAlignY=58\&descSize=16)" /> </p>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Building+and+Learning+Every+Day;Exploring+Backend+%26+System+Architecture" alt="Welcome to my GitHub! Aspiring Software Engineer" />
+</p>
 
-<!-- Typing Animation -->
-
-<p align="center">   <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Building+and+Learning+Every+Day;Exploring+Backend+%26+System+Architecture](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Building+and+Learning+Every+Day;Exploring+Backend+%26+System+Architecture)" /> </p>
-
-<p align="center">   <a href="YOUR_PORTFOLIO_URL">     <img src="[https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2C5364?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />   </a>   <a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)">     <img src="[https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge\&logo=github\&label=Followers)" />   </a>   <a href="[https://github.com/YOUR_GITHUB_USERNAME?tab=repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)">     <img src="[https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge\&logo=github\&label=Stars)" />   </a> </p>
+<p align="center">
+  <a href="https://gereme.gajec.org">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
+  </a>
+  <a href="https://github.com/GeremeGarcia">
+    <img src="https://img.shields.io/github/followers/GeremeGarcia?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/GeremeGarcia?tab=repositories">
+    <img src="https://img.shields.io/github/stars/GeremeGarcia?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+  </a>
+</p>
 
 ---
 
@@ -30,23 +42,23 @@ I enjoy exploring how systems work, developing applications, and understanding t
 
 ### Programming Languages
 
-<p><img src="[https://skillicons.dev/icons?i=java,python,js,c](https://skillicons.dev/icons?i=java,python,js,c)" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,python,js,c" alt="Java, Python, JavaScript, and C" /></p>
 
 ### Frontend Development
 
-<p><img src="[https://skillicons.dev/icons?i=html,css,react,vite](https://skillicons.dev/icons?i=html,css,react,vite)" /></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="HTML, CSS, React, and Vite" /></p>
 
 ### Backend Development
 
-<p><img src="[https://skillicons.dev/icons?i=nodejs,fastapi](https://skillicons.dev/icons?i=nodejs,fastapi)" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,fastapi" alt="Node.js and FastAPI" /></p>
 
 ### Databases
 
-<p><img src="[https://skillicons.dev/icons?i=mysql,postgres](https://skillicons.dev/icons?i=mysql,postgres)" /></p>
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL and PostgreSQL" /></p>
 
 ### Development Tools
 
-<p><img src="[https://skillicons.dev/icons?i=git,github,vscode,idea,linux](https://skillicons.dev/icons?i=git,github,vscode,idea,linux)" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" alt="Git, GitHub, VS Code, IntelliJ IDEA, and Linux" /></p>
 
 ---
 
@@ -87,12 +99,12 @@ Exploring object-oriented programming, desktop applications, client-server commu
 ## 📊 GitHub Analytics
 
 <p align="center">
-&#x20; <img width="49%" src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="GitHub Statistics" />
-&#x20; <img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GeremeGarcia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeremeGarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-&#x20; <img src="[https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=GeremeGarcia&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -108,17 +120,17 @@ I aim to continuously expand my technical knowledge, contribute to meaningful pr
 ## 🤝 Let's Connect
 
 <p align="center">
-&#x20; <a href="https://gereme.gajec.org">
-&#x20;   <img src="[https://img.shields.io/badge/Website-Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Website-Portfolio-2C5364?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />
-&#x20; </a>
-&#x20; <a href="[https://github.com/GeremeGarcia](https://github.com/GeremeGarcia)">
-&#x20;   <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; </a>
-&#x20; <a href="https://linkedin.com/in/gereme-marcus-garcia">
-&#x20;   <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; </a>
+  <a href="https://gereme.gajec.org">
+    <img src="https://img.shields.io/badge/Website-Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
+  </a>
+  <a href="https://github.com/GeremeGarcia">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://linkedin.com/in/gereme-marcus-garcia">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
 </p>
 
 <p align="center">
-&#x20; <i>"Great software is built through curiosity, continuous learning, and thoughtful engineering."</i>
+  <i>"Great software is built through curiosity, continuous learning, and thoughtful engineering."</i>
 </p>
