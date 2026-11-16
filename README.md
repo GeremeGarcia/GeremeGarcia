@@ -99,8 +99,8 @@ Exploring object-oriented programming, desktop applications, client-server commu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GeremeGarcia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeremeGarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-rickstaa.vercel.app/api?username=GeremeGarcia&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=GeremeGarcia&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
