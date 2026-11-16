@@ -1,7 +1,5 @@
-<h1 align="center">Gereme Garcia</h1>
-
 <p align="center">
-  Computer Science student at Saint Louis University · Aspiring Software Engineer
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:101827,50:172554,100:164e63&amp;height=190&amp;section=header&amp;text=Gereme%20Garcia&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&amp;descAlignY=60&amp;descSize=15" alt="Gereme Garcia - Computer Science Student and Aspiring Software Engineer" />
 </p>
 
 <p align="center">
@@ -55,8 +53,7 @@ Software architecture, REST API development, database design, AI and machine lea
 ## GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-rickstaa.vercel.app/api?username=GeremeGarcia&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=GeremeGarcia&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=GeremeGarcia&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub statistics" />
 </p>
 
 <p align="center">
