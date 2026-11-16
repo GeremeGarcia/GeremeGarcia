@@ -8,19 +8,18 @@
 
 <p align="center">
   <a href="https://gereme.gajec.org">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-164e63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-164e63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/GeremeGarcia">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-164e63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://linkedin.com/in/gereme-marcus-garcia">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-164e63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-1e293b?style=flat-square" alt="Focus: Software Engineering" />
-  <img src="https://img.shields.io/badge/Location-Philippines-1e293b?style=flat-square" alt="Location: Philippines" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-1e293b?style=flat-square" alt="Status: Always Learning" />
 </p>
 
@@ -148,7 +147,7 @@ Exploring software engineering concepts, system design, algorithm development, a
 
 <p align="center">
   <a href="https://github.com/GeremeGarcia?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-View%20Projects-164e63?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-164e63?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
 </p>
 
@@ -202,13 +201,13 @@ I'm always open to learning opportunities, technical discussions, and collaborat
 
 <p align="center">
   <a href="https://gereme.gajec.org">
-    <img src="https://img.shields.io/badge/WEBSITE-Portfolio-164e63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-164e63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/GeremeGarcia">
-    <img src="https://img.shields.io/badge/GITHUB-GeremeGarcia-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-164e63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://linkedin.com/in/gereme-marcus-garcia">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-164e63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>
 
