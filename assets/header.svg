@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Gereme Garcia</title>
+  <desc id="d">Computer Science · Software Engineering. Building thoughtful software, learning how systems work, turning ideas into useful tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#111c3a"/>
+      <stop offset="1" stop-color="#0f3d4c"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0f2fe"/>
+      <stop offset="0.5" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a5f3fc"/>
+    </linearGradient>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.35"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#818cf8" stop-opacity="0.30"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
+    <clipPath id="c1"><rect x="443.6" y="200" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.1167;0.2667;0.3167;1" values="0;302.4;302.4;0;0"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="443.6" y="200" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.3333;0.45;0.6;0.65;1" values="0;0;270;270;0;0"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="443.6" y="200" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.6667;0.7833;0.9333;0.9833;1" values="0;0;334.8;334.8;0;0"/>
+    </rect></clipPath>
+    <style>
+      .name { font: 800 66px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 1px; }
+      .sub  { font: 600 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 5px; fill: #7dd3fc; }
+      .mono { font: 400 18px ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; }
+      .sym  { font: 500 22px ui-monospace, SFMono-Regular, Consolas, monospace; fill: #7dd3fc; opacity: 0.16; }
+      .rise { animation: rise 1s ease-out both; }
+      .rise2 { animation: rise 1s ease-out 0.25s both; }
+      .rise3 { animation: rise 1s ease-out 0.5s both; }
+      .float1 { animation: float 7s ease-in-out infinite; }
+      .float2 { animation: float 9s ease-in-out -3s infinite; }
+      .float3 { animation: float 8s ease-in-out -5s infinite; }
+      @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+
+    <circle cx="180" cy="60" r="220" fill="url(#glowA)">
+      <animate attributeName="cx" dur="18s" repeatCount="indefinite" values="180;260;180"/>
+    </circle>
+    <circle cx="1040" cy="280" r="260" fill="url(#glowB)">
+      <animate attributeName="cx" dur="22s" repeatCount="indefinite" values="1040;940;1040"/>
+    </circle>
+
+    <text class="sym float1" x="110" y="250">{ }</text>
+    <text class="sym float2" x="1030" y="80">&lt;/&gt;</text>
+    <text class="sym float3" x="980" y="250">λ</text>
+    <text class="sym float2" x="190" y="110">#</text>
+    <text class="sym float1" x="1100" y="180">=&gt;</text>
+
+    <g class="rise">
+      <text class="name" x="600" y="138" text-anchor="middle" fill="url(#name)">Gereme Garcia</text>
+    </g>
+    <g class="rise2">
+      <text class="sub" x="600" y="178" text-anchor="middle">COMPUTER SCIENCE · SOFTWARE ENGINEERING</text>
+    </g>
+
+    <g class="rise3">
+      <rect x="400" y="198" width="400" height="44" rx="10" fill="#0b1020" fill-opacity="0.55" stroke="#7dd3fc" stroke-opacity="0.18"/>
+      <text class="mono" x="422" y="226" fill="#34d399" textLength="10.8" lengthAdjust="spacingAndGlyphs">$</text>
+      <g clip-path="url(#c1)"><text class="mono" x="443.6" y="226" fill="#e2e8f0" textLength="302.4" lengthAdjust="spacingAndGlyphs">building thoughtful software</text></g>
+      <g clip-path="url(#c2)"><text class="mono" x="443.6" y="226" fill="#e2e8f0" textLength="270" lengthAdjust="spacingAndGlyphs">learning how systems work</text></g>
+      <g clip-path="url(#c3)"><text class="mono" x="443.6" y="226" fill="#e2e8f0" textLength="334.8" lengthAdjust="spacingAndGlyphs">turning ideas into useful tools</text></g>
+      <rect x="443.6" y="210" width="10" height="20" fill="#7dd3fc">
+        <animate attributeName="x" dur="12s" repeatCount="indefinite"
+          keyTimes="0;0.1167;0.2667;0.3167;0.3333;0.45;0.6;0.65;0.6667;0.7833;0.9333;0.9833;1"
+          values="443.6;746;746;443.6;443.6;713.6;713.6;443.6;443.6;778.4;778.4;443.6;443.6"/>
+        <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/>
+      </rect>
+    </g>
+  </g>
+</svg>

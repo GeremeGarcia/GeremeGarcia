@@ -1,220 +1,126 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:172554,100:164e63&height=210&section=header&text=Gereme%20Garcia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Engineering&descAlignY=60&descSize=16" alt="Gereme Garcia" />
+  <img width="100%" src="./assets/header.svg" alt="Gereme Garcia: Computer Science · Software Engineering" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+thoughtful+software;Learning+how+systems+work;Turning+ideas+into+useful+tools" alt="Animated introduction" />
-</p>
-
-<p align="center">
-  <a href="https://gereme.gajec.org">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-164e63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/GeremeGarcia">
-    <img src="https://img.shields.io/badge/GitHub-Profile-164e63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://linkedin.com/in/gereme-marcus-garcia">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-164e63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-1e293b?style=flat-square" alt="Focus: Software Engineering" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-1e293b?style=flat-square" alt="Status: Always Learning" />
+  <a href="https://gereme.gajec.org"><b>🌐 Portfolio</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/gereme-marcus-garcia"><b>💼 LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/GeremeGarcia?tab=repositories"><b>📦 Repositories</b></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 Hey, I'm Gereme
 
-<table width="100%" cellpadding="10" cellspacing="0">
-<tr>
-<td width="60%" align="left" valign="top">
+I'm a **Computer Science student** who likes knowing *why* things work, not just *that* they work.
+Most of my time goes into backend systems, application architecture, and lately AI: how to build
+software that holds up once real people start using it.
 
-I'm a Computer Science student interested in software engineering and building practical technology.
+```java
+public class Gereme extends Student implements Engineer {
 
-I enjoy understanding how systems work, developing applications, and exploring the engineering principles behind reliable and maintainable software.
+    String   role      = "Computer Science Student";
+    String[] interests = { "Backend", "Software Architecture", "APIs", "Databases", "AI", "Distributed Systems" };
+    String   motto     = "Learn continuously. Build thoughtfully. Engineer purposefully.";
 
-My interests extend from backend development and application architecture to artificial intelligence and emerging technologies.
+    @Override
+    public Software build(Idea idea) {
+        return idea.understand()      // figure out the real problem first
+                   .design()          // simple beats clever
+                   .ship()            // done is a feature
+                   .iterate();        // then make it better
+    }
+}
+```
 
-<p>
-  <a href="https://gereme.gajec.org">Explore my portfolio →</a>
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img width="100%" src="./assets/stack.svg" alt="Languages: Java, Python, JavaScript, C. Frontend: HTML, CSS, React, Vite. Backend and data: Node.js, FastAPI, Fastify, MySQL, PostgreSQL. Tooling: Git, GitHub, VS Code, IntelliJ IDEA, Linux, Maven." />
 </p>
 
+---
+
+### 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏥 MediSync AI
+An AI-assisted healthcare platform for **patient intake, urgency triage, and clinical workflow coordination**, built on multimodal AI.
+
+`Python` `FastAPI` `React` `MySQL` `AI/ML`
+
 </td>
-<td width="40%" align="left" valign="top">
+<td width="50%" valign="top">
 
-### 🎯 Areas of Interest
+#### 🌐 Full-Stack Web Apps
+End-to-end web applications: modern frontends, backend services, API integrations, and relational databases tied together.
 
-- Backend Development
-- Software Architecture
-- Full-Stack Development
-- API Design
-- Database Engineering
-- Artificial Intelligence
-- Distributed Systems
+`React` `Node.js` `Fastify` `PostgreSQL`
 
-### 🌱 Current Mindset
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Learn continuously. Build thoughtfully. Engineer purposefully.
+#### ☕ Java Development
+Desktop apps, client-server communication, and build automation, plus a lot of object-oriented design.
+
+`Java` `JavaFX` `Swing` `Maven` `Ant`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔬 Engineering & Research
+Algorithms, networking, system design, and the theory behind practical computer science.
+
+`Algorithms` `Networking` `AI/ML` `System Design`
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧰 Technologies & Tools
-
-<p align="center">
-  <sub><strong>PROGRAMMING LANGUAGES</strong></sub><br /><br />
-  <img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Java, Python, JavaScript, C" />
-</p>
-
-<p align="center">
-  <sub><strong>FRONTEND DEVELOPMENT</strong></sub><br /><br />
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML, CSS, React, Vite" />
-</p>
-
-<p align="center">
-  <sub><strong>BACKEND & DATABASES</strong></sub><br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql,postgres&theme=dark" alt="Node.js, FastAPI, MySQL, PostgreSQL" />
-</p>
-
-<p align="center">
-  <sub><strong>DEVELOPMENT TOOLS</strong></sub><br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Linux" />
-</p>
+<p align="center"><a href="https://github.com/GeremeGarcia?tab=repositories"><b>→ Browse all repositories</b></a></p>
 
 ---
 
-## 🚀 Selected Projects & Development
+### 📚 Currently Leveling Up
 
-<table width="100%" cellpadding="10" cellspacing="0">
-<tr>
-<td width="50%" align="left" valign="top">
+| 🏗️ Software Engineering | 🧠 Computer Science |
+| :-- | :-- |
+| Software architecture & design patterns | Database optimization |
+| Clean, maintainable code | Distributed systems |
+| REST API design | Artificial intelligence |
+| Testing & reliability | Computer networking |
 
-<h3>🏥 MediSync AI</h3>
+<details>
+<summary><b>⚡ A few quick facts</b></summary>
+<br />
 
-An AI-assisted healthcare support platform focused on patient intake, urgency assessment, and clinical workflow coordination using multimodal AI.
+- 🔍 I'd rather read the source than guess at the docs
+- 🧩 Favorite kind of problem: making a messy system simple
+- 🛠️ Every project starts as "how hard could it be?"
+- 🌱 Always open to learning from people who know more than I do
 
-<p>
-  <sub><strong>TECHNOLOGIES</strong></sub><br />
-  <code>Python</code> <code>FastAPI</code> <code>React</code> <code>MySQL</code> <code>AI/ML</code>
-</p>
-
-</td>
-<td width="50%" align="left" valign="top">
-
-<h3>🌐 Full-Stack Development</h3>
-
-Building web applications with modern frontend frameworks, backend services, API integration, and relational database systems.
-
-<p>
-  <sub><strong>TECHNOLOGIES</strong></sub><br />
-  <code>React</code> <code>Node.js</code> <code>Fastify</code> <code>PostgreSQL</code>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="left" valign="top">
-
-<h3>☕ Java Development</h3>
-
-Exploring object-oriented programming, desktop applications, client-server communication, and software build automation.
-
-<p>
-  <sub><strong>TECHNOLOGIES</strong></sub><br />
-  <code>Java</code> <code>JavaFX</code> <code>Swing</code> <code>Maven</code> <code>Ant</code>
-</p>
-
-</td>
-<td width="50%" align="left" valign="top">
-
-<h3>🔬 Engineering & Research</h3>
-
-Exploring software engineering concepts, system design, algorithm development, and practical applications of computer science.
-
-<p>
-  <sub><strong>AREAS</strong></sub><br />
-  <code>Algorithms</code> <code>Networking</code> <code>AI/ML</code> <code>System Design</code>
-</p>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/GeremeGarcia?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-164e63?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-  </a>
-</p>
+</details>
 
 ---
 
-## 📚 Currently Exploring
+### 🤝 Let's Connect
 
-<table width="100%" cellpadding="10" cellspacing="0">
-<tr>
-<td width="50%" align="left" valign="top">
-
-**Software Engineering**
-
-- Software Architecture
-- Design Patterns
-- Clean Code
-- REST API Development
-
-</td>
-<td width="50%" align="left" valign="top">
-
-**Computer Science**
-
-- Database Optimization
-- Distributed Systems
-- Artificial Intelligence
-- Computer Networking
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-rickstaa.vercel.app/api?username=GeremeGarcia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=GeremeGarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=GeremeGarcia&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to learning opportunities, technical discussions, and collaborations with people who enjoy building meaningful technology.
-
-<p align="center">
-  <a href="https://gereme.gajec.org">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-164e63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/GeremeGarcia">
-    <img src="https://img.shields.io/badge/GitHub-Profile-164e63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://linkedin.com/in/gereme-marcus-garcia">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-164e63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-</p>
+I'm always up for technical conversations, learning opportunities, and building something meaningful together.
+The best place to start is my **[portfolio](https://gereme.gajec.org)** or a message on **[LinkedIn](https://linkedin.com/in/gereme-marcus-garcia)**.
 
 <p align="center">
   <i>"Curiosity, consistency, and thoughtful engineering turn ideas into useful software."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:172554,100:101827&height=100&section=footer" alt="Footer" />
+  <img width="100%" src="./assets/footer.svg" alt="" />
 </p>
